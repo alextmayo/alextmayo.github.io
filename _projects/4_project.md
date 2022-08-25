@@ -7,6 +7,7 @@ importance: 3
 category: fun
 ---
 NOTE:  This is a brief overview of the project and will not go into specifics of the development process.
+
 Go to full DDR pad project page !WIP!
 
 
